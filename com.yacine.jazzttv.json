@@ -888,6 +888,15 @@
       "user_agent": ""
     },
     {
+      "id": 82,
+      "category": "Sports",
+      "title": "Fuel TV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/sportsarab/FuelTV.webp",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://amg01074-fueltv-fueltvemeaen-lggb-ljcsr.amagi.tv/playlist/amg01074-fueltv-fueltvemeaen-lggb/cb563d1f7f6c648e84cb3878d3f662ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aac6852db80148b6f4adafb8c2360625f5c98435ee3b24af5ade75a438e69a7ac4f1b962e58e683179fc94dead386469912d227f011c9c4f38c8110e0c2ab4091ab2630733a0b59dbe9509dcd52b8df896038ee1e42243f66966817632c46e2665055f985a5d7fd3210bce116846d36a9019648c646e2a66b0dd5836494d7d7fc474f2db6c557210da1f3a1c09b6771d5628abc05047815008db401c2792f63bbd103b0b7a73597ca14d99c228eb57b0939fa5c24f1929f8cf5b981469d6a9f89a4d87575476d000d914ee2b4599b788d36f8955316554312f9c115dcd08d1770435f968c5be3161992d29fcc8a5d6c84334d1aa04bf16f284080746075ee28b9bd396f822943c51635e95738850dadeb7dbbf795b5486bf5edc644fe7de6fa5f81a14cfa3b4e2c68d9c5255141436ac3ae375d421eed71a4829aaf2773438691eaf1cf5434024367710499edea75dbc3801e1418c55c31733677339317dd7dd01043637f9e4dcbcde91526d2aef6801eb32f5e1cb05b9188f16579e254fa21/173/1920x1080_5288800/index.m3u8",
+      "user_agent": ""
+    },
+    {
       "id": 83,
       "category": "Sports",
       "title": "AGT",
