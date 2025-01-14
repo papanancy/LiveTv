@@ -789,15 +789,6 @@
       "user_agent": ""
     },
     {
-      "id": 70,
-      "category": "Sports",
-      "title": "Bek TV Sports",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/sportsarab/beksports.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b1596000_slENG.m3u8,
-      "user_agent": ""
-    },
-    {
       "id": 71,
       "category": "Sports",
       "title": "Bahrain Sports 2",
