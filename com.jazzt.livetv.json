@@ -742,7 +742,7 @@
       "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
       "streaming_url": "https://live.elahmad.net/https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/stream_05/index.m3u8",
       "user_agent": ""
-	  },
+    },
     {
       "id": 65,
       "category": "Sports",
@@ -3234,22 +3234,22 @@
   ],
   "more_apps": [
     {
-      "id": ,
-      "title": "",
-      "image": "",
-      "url": ""
+      "id": 1,
+      "title": "Guide Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
     },
     {
-      "id": ,
-      "title": "",
-      "image": "",
-      "url": ""
+      "id": 2,
+      "title": "Stream Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
     },
     {
       "id": 3,
-      "title": "",
-      "image": "",
-      "url": ""
+      "title": "WebView Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
     }
   ]
 }
