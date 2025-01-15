@@ -790,3 +790,24 @@
 
     }
   ],
+"more_apps": [
+    {
+      "id": ,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": ,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
