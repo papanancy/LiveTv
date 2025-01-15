@@ -8,7 +8,7 @@
       "email_feedback_and_report": "bussinesscv108@gmail.com",
       "show_related_channels": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": false,
+      "enable_exit_dialog": true,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": true,
       "landscape_mode_as_default_player_orientation": false
@@ -18,8 +18,8 @@
     {
       "main_ads": "adsterra",
       "adsterra_banner": "",
-      "adsterra_native_ad": "",
-      "adsterra_inter": "",
+      "adsterra_native_ad": "https://recordfunny.com/nsgxhu9r7?key=a84fe993059ecd33415632dcf5c1a40f",
+      "adsterra_inter": "https://recordfunny.com/nsgxhu9r7?key=a84fe993059ecd33415632dcf5c1a40f",
       "interval_native": 5,
       "interval_inter": 2
     }
@@ -27,7 +27,7 @@
   "ads": [
     {
       "ad_status": false,
-      "main_ad": "admob",
+      "main_ad": "adsterra",
       "backup_ad": "alien_ads",
       "admob_banner_unit_id": "",
       "admob_interstitial_unit_id": "",
