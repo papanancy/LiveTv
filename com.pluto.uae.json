@@ -86,12 +86,22 @@
   ],
   "categories": [
     {
-      "id": 2,
+      "id": 1,
       "name": "UAE",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/uae.png"
     },
     {
-      "id": 1,
+      "id": 5,
+      "name": "POLITICS",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/politics.png"
+    },
+    {
+      "id": 6,
+      "name": "NEWS",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/News.png"
+    },
+    {
+      "id": 2,
       "name": "SPORTS",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/sports.png"
     },
@@ -104,16 +114,6 @@
       "id": 4,
       "name": "RANDOM",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/Random.png"
-    },
-    {
-      "id": 5,
-      "name": "POLITICS",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/politics.png"
-    },
-    {
-      "id": 6,
-      "name": "NEWS",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/News.png"
     },
     {
       "id": 7,
