@@ -111,7 +111,7 @@
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/politics.png"
     },
     {
-	  "id": 6,
+      "id": 6,
       "name": "NEWS",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/News.png"
     },
@@ -3230,26 +3230,6 @@
       "streaming_url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
       "user_agent": ""
 
-    }
-  ],
-  "more_apps": [
-    {
-      "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
-    },
-    {
-      "id": 2,
-      "title": "Stream Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
-    },
-    {
-      "id": 3,
-      "title": "WebView Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
     }
   ]
 }
