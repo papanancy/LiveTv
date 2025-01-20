@@ -8,7 +8,7 @@
       "email_feedback_and_report": "bussinesscv108@gmail.com",
       "show_related_channels": true,
       "enable_rtl_mode": false,
-      "enable_exit_dialog": false,
+      "enable_exit_dialog": true,
       "enable_vpn_access": false,
       "enable_dark_mode_as_default_theme": true,
       "landscape_mode_as_default_player_orientation": false
@@ -91,16 +91,6 @@
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/uae.png"
     },
     {
-      "id": 5,
-      "name": "POLITICS",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/politics.png"
-    },
-    {
-      "id": 6,
-      "name": "NEWS",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/News.png"
-    },
-    {
       "id": 2,
       "name": "SPORTS",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/sports.png"
@@ -114,6 +104,16 @@
       "id": 4,
       "name": "RANDOM",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/Random.png"
+    },
+    {
+      "id": 5,
+      "name": "POLITICS",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/politics.png"
+    },
+    {
+      "id": 6,
+      "name": "NEWS",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/News.png"
     },
     {
       "id": 7,
@@ -167,6 +167,141 @@
     }
   ],
   "channels": [
+    {
+      "id": 1,
+      "category": "UAE",
+      "title": "NBN",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/nbn.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://ns1.elahmad.com/tv714_www.elahmad.com_nbn/index.m3u8?token=a9f1a928602f13e347f0b033da96e1a4f5e070c7-2bd6a2ea76848b77a194d6303b6d22aa-1735876720-1735865920",
+      "user_agent": ""
+    },
+    {
+      "id": 2,
+      "category": "UAE",
+      "title": "Alhura",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/alhura.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 3,
+      "category": "UAE",
+      "title": "sky news arabia",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/skynewsarabia.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735888396/ei/rDl3Z9rAKvac4t4PotK2mQ4/ip/114.10.16.143/id/xLo3WBYlby4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/x-caUBgDXxmvEQn0ke6u--nRyT5_wIjnrO__JD61TueiSrU0sgdkk8ODzY63HbVRAHuRDlb-BC0z/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANUj1N4Bq39uXISqX-eehC2BSxIJVm08_eYXXaqSCxlrAiBazzW7Sh41b1ZKkSbV0tuEdO5iDC9C3d9BRa1aa0sHVw%3D%3D/file/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4,
+      "category": "UAE",
+      "title": "bbc news arabic",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/bbcarabic.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735888635/ei/mzp3Z_r1Fs-CjuMP2bbW8Q8/ip/114.10.16.143/id/dsivequqb-Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/x-caUAKUsS0EmpCc9mMvw_Bp3wiHCvs57eNX5CaACBfji-TrXx58OqWzVaV1wv2VmOucKlKv5fov/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcdS4Z13w7pYlPbOeIPJI2JFAAKBnYBOG4BvARUMfxJkCIF94j_fgs0gRYy8SG2JtcUL3WuVaJoO_-ty7CvUYAmHT/file/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 5,
+      "category": "UAE",
+      "title": "tele liban",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/teleliban.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 6,
+      "category": "UAE",
+      "title": "alaraby",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/alaraby.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735889043/ei/Mzx3Z6qsJbyT4t4P2NbvmAY/ip/114.10.16.143/id/0MXE-W8bP98.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/x-caUAAc-DxD2e5jun0O7GwdPnXw3buqV4yYaAkjBMh2ohRfjrBHT95DWp4JMTzkWTSZFaKjOcLc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPdQBt2SK_WwzpHV5TIGHZuvGQnjzkn0HA0yF37NGCS-AiBs3E7MhEWP2RF9c5x81owfmWrvQK4iG38Rm-jgcjrR5g%3D%3D/file/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 7,
+      "category": "UAE",
+      "title": "LBC HD",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/lbc.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live.kwikmotion.com/rlbclive/rlbc.smil/rlbcpublish/rlbc_source/hdntl=exp=1735953973~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=6eac24e7fcc2676f8c0b4f6f552a17de0cb26062bb29d65ceff7754b3d88623f/chunks.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 8,
+      "category": "UAE",
+      "title": "future tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/future.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://ns1.elahmad.com/tv714_www.elahmad.com_future/tracks-v1a1/mono.m3u8?token=f3ddf89fb035ad5a158109d0ca974b0b2cbd63b8-499d5aefb2d45959349dfe946fdcc0d3-1735878153-1735867353",
+      "user_agent": ""
+    },
+    {
+      "id": 9,
+      "category": "UAE",
+      "title": "aljadeed tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/aljadeed.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://ns1.elahmad.com/tv714_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=6028173eb3922aadf6e80a0c7bd498a32f25d04f-3fc1d89034a294f9c5d45265c71292ee-1735878316-1735867516",
+      "user_agent": ""
+    },
+    {
+      "id": 10,
+      "category": "UAE",
+      "title": "alhiwar",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/alhiwartv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 11,
+      "category": "UAE",
+      "title": "alalam",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/alalam.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live.elahmad.net/https://live2.alalam.ir/live/Alalam/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 12,
+      "category": "UAE",
+      "title": "mtv lebanon",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/mtv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://ns1.elahmad.com/tv714_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=8c896b95d0827e64df80b1e39b1ceca7492c15de-8d5d67ecaf5bcb35c08e7c33e253b7c2-1735878631-1735867831",
+      "user_agent": ""
+    },
+    {
+      "id": 13,
+      "category": "UAE",
+      "title": "OTV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/otv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://ns1.elahmad.com/tv714_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=abac3c790374b254091b1d30ca99508ea362901b-5489bdeffc24e0e33af323e01b3e69fa-1735878777-1735867977",
+      "user_agent": ""
+    },
+    {
+      "id": 14,
+      "category": "UAE",
+      "title": "vld 24",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/vld24.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv/chunks.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 15,
+      "category": "UAE",
+      "title": "TAC",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/tactv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://9b6lem7edpxw-hls-live.5centscdn.com/tac/3ac94f1478aadab3a87c593dbd2e0ecb.sdp/chunks.m3u8",
+      "user_agent": ""
+    },
     {
       "id": 16,
       "category": "UAE",
@@ -300,141 +435,6 @@
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/aliman9.png",
       "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
       "streaming_url": "https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 102,
-      "category": "UAE",
-      "title": "NBN",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/nbn.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://ns1.elahmad.com/tv714_www.elahmad.com_nbn/index.m3u8?token=a9f1a928602f13e347f0b033da96e1a4f5e070c7-2bd6a2ea76848b77a194d6303b6d22aa-1735876720-1735865920",
-      "user_agent": ""
-    },
-    {
-      "id": 104,
-      "category": "UAE",
-      "title": "Alhura",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/alhura.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://mbnv-video-ingest.akamaized.net/hls/live/2038904/MBNV_ALHURRA_MAIN_HLS/merge.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 112,
-      "category": "UAE",
-      "title": "sky news arabia",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/skynewsarabia.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735888396/ei/rDl3Z9rAKvac4t4PotK2mQ4/ip/114.10.16.143/id/xLo3WBYlby4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/x-caUBgDXxmvEQn0ke6u--nRyT5_wIjnrO__JD61TueiSrU0sgdkk8ODzY63HbVRAHuRDlb-BC0z/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANUj1N4Bq39uXISqX-eehC2BSxIJVm08_eYXXaqSCxlrAiBazzW7Sh41b1ZKkSbV0tuEdO5iDC9C3d9BRa1aa0sHVw%3D%3D/file/index.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 229,
-      "category": "UAE",
-      "title": "bbc news arabic",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/bbcarabic.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735888635/ei/mzp3Z_r1Fs-CjuMP2bbW8Q8/ip/114.10.16.143/id/dsivequqb-Q.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/x-caUAKUsS0EmpCc9mMvw_Bp3wiHCvs57eNX5CaACBfji-TrXx58OqWzVaV1wv2VmOucKlKv5fov/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgcdS4Z13w7pYlPbOeIPJI2JFAAKBnYBOG4BvARUMfxJkCIF94j_fgs0gRYy8SG2JtcUL3WuVaJoO_-ty7CvUYAmHT/file/index.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 307,
-      "category": "UAE",
-      "title": "tele liban",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/teleliban.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 6,
-      "category": "UAE",
-      "title": "alaraby",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/alaraby.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1735889043/ei/Mzx3Z6qsJbyT4t4P2NbvmAY/ip/114.10.16.143/id/0MXE-W8bP98.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/x-caUAAc-DxD2e5jun0O7GwdPnXw3buqV4yYaAkjBMh2ohRfjrBHT95DWp4JMTzkWTSZFaKjOcLc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPdQBt2SK_WwzpHV5TIGHZuvGQnjzkn0HA0yF37NGCS-AiBs3E7MhEWP2RF9c5x81owfmWrvQK4iG38Rm-jgcjrR5g%3D%3D/file/index.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 7,
-      "category": "UAE",
-      "title": "LBC HD",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/lbc.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://live.kwikmotion.com/rlbclive/rlbc.smil/rlbcpublish/rlbc_source/hdntl=exp=1735953973~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=6eac24e7fcc2676f8c0b4f6f552a17de0cb26062bb29d65ceff7754b3d88623f/chunks.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 8,
-      "category": "UAE",
-      "title": "future tv",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/future.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://ns1.elahmad.com/tv714_www.elahmad.com_future/tracks-v1a1/mono.m3u8?token=f3ddf89fb035ad5a158109d0ca974b0b2cbd63b8-499d5aefb2d45959349dfe946fdcc0d3-1735878153-1735867353",
-      "user_agent": ""
-    },
-    {
-      "id": 9,
-      "category": "UAE",
-      "title": "aljadeed tv",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/aljadeed.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://ns1.elahmad.com/tv714_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=6028173eb3922aadf6e80a0c7bd498a32f25d04f-3fc1d89034a294f9c5d45265c71292ee-1735878316-1735867516",
-      "user_agent": ""
-    },
-    {
-      "id": 10,
-      "category": "UAE",
-      "title": "alhiwar",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/alhiwartv.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 11,
-      "category": "UAE",
-      "title": "alalam",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/alalam.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://live.elahmad.net/https://live2.alalam.ir/live/Alalam/index.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 12,
-      "category": "UAE",
-      "title": "mtv lebanon",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/mtv.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://ns1.elahmad.com/tv714_www.elahmad.com_mtv_lebanon/tracks-v1a1/mono.m3u8?token=8c896b95d0827e64df80b1e39b1ceca7492c15de-8d5d67ecaf5bcb35c08e7c33e253b7c2-1735878631-1735867831",
-      "user_agent": ""
-    },
-    {
-      "id": 13,
-      "category": "UAE",
-      "title": "OTV",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/otv.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://ns1.elahmad.com/tv714_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=abac3c790374b254091b1d30ca99508ea362901b-5489bdeffc24e0e33af323e01b3e69fa-1735878777-1735867977",
-      "user_agent": ""
-    },
-    {
-      "id": 14,
-      "category": "UAE",
-      "title": "vld 24",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/vld24.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv/chunks.m3u8",
-      "user_agent": ""
-    },
-    {
-      "id": 15,
-      "category": "UAE",
-      "title": "TAC",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/tactv.png",
-      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
-      "streaming_url": "https://9b6lem7edpxw-hls-live.5centscdn.com/tac/3ac94f1478aadab3a87c593dbd2e0ecb.sdp/chunks.m3u8",
       "user_agent": ""
     },
     {
@@ -1012,7 +1012,7 @@
       "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
       "streaming_url": "https://pass.iranvids.com/https://tennischannel-int-samsunguk.amagi.tv/playlist540_p.m3u8",
       "user_agent": ""
-	},
+    },
     {
       "id": 96,
       "category": "MOVIES",
@@ -1068,7 +1068,7 @@
       "user_agent": ""
     },
     {
-      "id": 1,
+      "id": 102,
       "category": "MOVIES",
       "title": "Pluto Comedy TV",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGmoviearab/PlutoComedy.png",
@@ -1086,7 +1086,7 @@
       "user_agent": ""
     },
     {
-      "id": 2,
+      "id": 104,
       "category": "MOVIES",
       "title": "PLuto TV Action",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGmoviearab/PlutoTVAction.png",
@@ -1167,7 +1167,7 @@
       "user_agent": ""
     },
     {
-      "id": 3,
+      "id": 112,
       "category": "MOVIES",
       "title": "Pluto Spotlight",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGmoviearab/PlutoSpotlight.png",
@@ -1498,7 +1498,7 @@
       "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
       "streaming_url": "https://d1j2u714xk898n.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-24HourFreeMovies/017c9751-f7a0-4085-97de-9446169aaa43/1.m3u8",
       "user_agent": ""
-	  },
+    },
     {
       "id": 150,
       "category": "Random",
@@ -1825,7 +1825,6 @@
       "user_agent": ""
     },
     {
-      
       "id": 186,
       "category": "News",
       "title": "A2 CNN",
@@ -2214,7 +2213,7 @@
       "user_agent": ""
     },
     {
-      "id": 4,
+      "id": 229,
       "category": "Documentary",
       "title": "Pluto Animals",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGDOcumentary/PlutoTVAnimals.png",
@@ -2916,7 +2915,7 @@
       "user_agent": ""
     },
     {
-      "id": 5,
+      "id": 307,
       "category": "Crime",
       "title": "Pluto Investiga",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGcrime/plutoinvestiga.png",
@@ -3230,7 +3229,6 @@
       "streaming_url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
       "user_agent": ""
 
-    
     }
   ]
 }
