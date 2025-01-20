@@ -195,7 +195,7 @@
       "user_agent": ""
     },
     {
-	  "id": 284,
+      "id": 284,
       "category": "Entertainment",
       "title": "MBC 5",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGentertainment/mbc5.png",
@@ -204,7 +204,7 @@
       "user_agent": ""
     },
     {
-	  "id": 325,
+      "id": 325,
       "category": "Kids",
       "title": "MBC 3",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGkids/MBC3.png",
@@ -213,7 +213,7 @@
       "user_agent": ""
     },
     {
-	  "id": 101,
+      "id": 101,
       "category": "MOVIES",
       "title": "MBC Bollywood",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGmoviearab/mbcbollywood.png",
@@ -222,7 +222,7 @@
       "user_agent": ""
     },
     {
-	  "id": 109,
+      "id": 109,
       "category": "MOVIES",
       "title": "MBC Drama KSA",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGmoviearab/mbcdrama.png",
@@ -231,7 +231,7 @@
       "user_agent": ""
     },
     {
-	  "id": 25,
+      "id": 25,
       "category": "UAE",
       "title": "mbc2",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGlebanonuae/mbc2.png",
