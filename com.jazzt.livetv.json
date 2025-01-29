@@ -102,8 +102,8 @@
     },
     {
       "id": 4,
-      "name": "RANDOM",
-      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/Random.png"
+      "name": "AFRICA",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/Africa.png"
     },
     {
       "id": 5,
@@ -164,6 +164,11 @@
       "id": 16,
       "name": "OUTDOOR",
       "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/Outdoor.png"
+    },
+    {
+      "id": 17,
+      "name": "RANDOM",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/CATEGORYIMG/Random.png"
     }
   ],
   "channels": [
@@ -3229,7 +3234,1230 @@
       "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
       "streaming_url": "https://travelxp-travelxp-1-eu.rakuten.wurl.tv/3000.m3u8",
       "user_agent": ""
-
+    },
+    {
+      "id": 401,
+      "category": "AFRICA",
+      "title": "cafrica",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/cafrica.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_c4874900773011eea1ff17bce4681eb6/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 402,
+      "category": "AFRICA",
+      "title": "Bloomberg",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/blomberg.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-4-KZVY3t6YToC2_live.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 403,
+      "category": "AFRICA",
+      "title": "Scientific",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/scientific.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_cfbc6cc0b45b11ee974a6d349f68241b/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 404,
+      "category": "AFRICA",
+      "title": "Action CHannel",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/actionchannel.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_bca94740b45e11eea3006b526d542e2f/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 405,
+      "category": "AFRICA",
+      "title": "Aljazeera",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/aljazeera.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live-hls-web-aje.getaj.net/AJE/02.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 406,
+      "category": "AFRICA",
+      "title": "Geo World",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/geoworld.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_63693450b44b11ee917c99d2dbd8313a/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 407,
+      "category": "AFRICA",
+      "title": "ABC News",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/abcnews.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?pbs=73e9429feb224a50afe522ef598e1327",
+      "user_agent": ""
+    },
+    {
+      "id": 408,
+      "category": "AFRICA",
+      "title": "Deluxe Music",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/deluxemusic.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/677deb678f7a0_13018905_2501080305_audio.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 409,
+      "category": "AFRICA",
+      "title": "Musica HD",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/musicahd.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_2eec09708ad611ef8aeeb922982ad5b4/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4010,
+      "category": "AFRICA",
+      "title": "Can Sport",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/cansport.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_25f015c0b6ae11eea8a379f1fd4f917c/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4011,
+      "category": "AFRICA",
+      "title": "LPTV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/lptv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_80d7a230b0a211ee8cd1dbcd447b7991/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4012,
+      "category": "AFRICA",
+      "title": "Comedy TV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/comedytv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_9b680430b5fe11eea18169461fc37d5e/tracks-v2a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4013,
+      "category": "AFRICA",
+      "title": "Kiddies TV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/kiddiestv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_e19a4260b45f11eeafc55519fdb3f0a1/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4014,
+      "category": "AFRICA",
+      "title": "Religion TV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/religion.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.commec.tv/6447b2559d8b0711e2fa75cc/live_8e6ad880b45911eea5dfe941d5e56529/playlist.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4015,
+      "category": "AFRICA",
+      "title": "Eman TV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/emanchannel.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/chunks.m3u8?nimblesessionid=669594762",
+      "user_agent": ""
+    },
+    {
+      "id": 4016,
+      "category": "AFRICA",
+      "title": "RTI Bouake",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtibouake.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://www.enovativecdn.com/rticdn/smil:rti1.smil/chunklist_w964310793_b2000000_sleng.m3u8?nimblesessionid=145921358",
+      "user_agent": ""
+    },
+    {
+      "id": 4017,
+      "category": "AFRICA",
+      "title": "Tele Chad",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/telechad.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://strhls.streamakaci.tv/str_tchad_tchad/str_tchad_multi/str_tchad_tchad/str_tchad_tchad_720p/chunks.m3u8?nimblesessionid=23106784",
+      "user_agent": ""
+    },
+    {
+      "id": 4018,
+      "category": "AFRICA",
+      "title": "RTI 1",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rti1.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://www.enovativecdn.com/rticdn/smil:rti1.smil/chunklist_w1251948986_b2000000_sleng.m3u8?nimblesessionid=145921012",
+      "user_agent": ""
+    },
+    {
+      "id": 4019,
+      "category": "AFRICA",
+      "title": "RTI 2",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rti2.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://www.enovativecdn.com/rticdn/smil:rti2.smil/chunklist_w1984778987_b2000000_sleng.m3u8?nimblesessionid=145921267",
+      "user_agent": ""
+    },
+    {
+      "id": 4020,
+      "category": "AFRICA",
+      "title": "La 3",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/la3.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4021,
+      "category": "AFRICA",
+      "title": "Echorouk",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/echorouktv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://echorouk-live-tv.dzsecurity.net/fullres/EchoroukTV_First/chunks.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4022,
+      "category": "AFRICA",
+      "title": "Ennahar",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/ennahar.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://ennahar-live.dzsecurity.net/fullsrc/EnnaharTV/chunks.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4023,
+      "category": "AFRICA",
+      "title": "El hayat",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/elhayat.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://elhayat-live-tv.dzsecurity.net/fullres/ElhayatTV_First/chunks.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4024,
+      "category": "AFRICA",
+      "title": "Tv Zimbo",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/zimbo.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v2/index.fmp4.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4025,
+      "category": "AFRICA",
+      "title": "RTP 2",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/RTP2.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/chunklist_b1290000_slpor.m3u8?tk=1736481600_a03942231eb0538c33fab2cf5e4cd2ebb8c532f9",
+      "user_agent": ""
+    },
+    {
+      "id": 4026,
+      "category": "AFRICA",
+      "title": "RTP 3",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtp3.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b2540000_DVR_slpor.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4027,
+      "category": "AFRICA",
+      "title": "RTP International",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtpinter.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4028,
+      "category": "AFRICA",
+      "title": "RTP Madeira",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtpmadeira.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4029,
+      "category": "AFRICA",
+      "title": "RTP Acores",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/RTPAcores.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/chunklist_b2540000_slpor.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4030,
+      "category": "AFRICA",
+      "title": "RTP Africa",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtpafrica.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4031,
+      "category": "AFRICA",
+      "title": "Benin Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/benintv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://strhls.streamakaci.tv/ortb/ortb1-multi/ortb/ortb1_1080p/chunks.m3u8?nimblesessionid=23105528",
+      "user_agent": ""
+    },
+    {
+      "id": 4032,
+      "category": "AFRICA",
+      "title": "Benin Tv Junior",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/beninjunior.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://strhls.streamakaci.tv/ortb/ortb2-multi/ortb/ortb2_720p/chunks.m3u8?nimblesessionid=23105618",
+      "user_agent": ""
+    },
+    {
+      "id": 4033,
+      "category": "AFRICA",
+      "title": "TVC Benin",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/tvcbenin.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/chunks.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4034,
+      "category": "AFRICA",
+      "title": "ETELE",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/etele.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://ase11-0.playlist.ttvnw.net/v1/playlist/CpgG3PjLIG-xZrLydNCU9o4DoB1nK1P5utf-HFAtvq7JBrfHy6P6auxIl0V6H2mFoxsxJhM1UbMoJUZLsoZXk4_jBO5l1mMX46wN8P_XutFsHHgIXyj9i1hEMYEBiG_Xr2ARct98mmzEWAx2_PSnp05gj4Kp2ppk1WnVRl2MF9eOWRsyM3X3iF2GqDj_s95dyOvUSLJ8Kwfuoh5PsP3MiBJlLQj92lG1r3DWekgKkO3jiCVgQtwDauf6jT03CzqUhDHnaRj9GbHchBmS2hqpdnZvuZxHW0uR7Pl160PHhdXdvQSinNuKZFfh8kbWbMFIgGIBCNXHuzgukkbPCWy609H9PvL4_OyD46CFQ9zlKOfmxobx0VoPpdw9hL39VgyU8aj1OXapFwG62jnxha1LjQnHURDm7uFR3UbqdcDLsPN1ORNUA6Dw0qwyA6KSwEGVJIjwHKJzMztdwkm65-JLkH_HUA2o10sGdGariHn-3UlprpxUltNKOgtEZdRNLUdp393vELVrfUBkR0Ehb4aKj43rIBjJx2YvX_w6TuAnoRqwOH9Dnwigpc4C33O6CBqPVoWB5pmgIdd3WBKDfgKJFWuTD4ehIe_BgrOfFydUiIav96zZyu8096Ys04b9G9kjXNYlZyqA_wBUD0iihWpPBAaDlZbbveSO21McGfvCQWZ5RDf4nCRMdEevqoJbzCKOieT-vNAF-X15pu7x8LWix4hPXf9coQmgkXY3YF19mCc1fjEev-nrgyQQFuOW0sQcuaS64YvQeoOKv-wdL9vBebN97kuqocVwgkpDKOQ6KmE2SiOzgethlHnT2UfHPodjvz61tAmF1hGDG3ViPqltlARHvZWfxX4KLu0nbG73fB7mgiYQYafCAOkN5dLhmWfPn-z6E4KlDqmaQYPDLPciLmdWICuoDkUjKcM6hYMZwiEJLpn4a02w3a1_uruxgqmqreX622DAULVfawS1wsJdR3gdVjLffUxgMiNgiNpQTSy58vkdDHSuDZM59N2IS1IsQ9pqrCHwVo-yIV6_JnejKKhJ47LGq5mmIQ7hGgyw9kQFzilmtCrPZvwgASoJdXMtd2VzdC0yMKUL.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4035,
+      "category": "AFRICA",
+      "title": "RTB",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtb.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://edge15.vedge.infomaniak.com/livecast/ik:rtblive1_8/chunklist_w1710218163.m3u8?spark=45590865-7dc0-4319-9326-9e2788ee2d71&token=",
+      "user_agent": ""
+    },
+    {
+      "id": 4036,
+      "category": "AFRICA",
+      "title": "Canal2",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/canal2.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live-c.cf.dmcdn.net/sec2(mnG4CjQDwMvtjwInLiexlitgSZdslLv9yukR7Itulq5lmHY0LUfzOJtKcGiAcBGH6MEqIilOL9ERfamVpLZNlX_muJIToVSHKz4m81yDYw-wyplqyCp4mUfSsIdZ-kqZ)/dm/3/x8t0282/s/live-720.m3u8#cell=lcfc",
+      "user_agent": ""
+    },
+    {
+      "id": 4037,
+      "category": "AFRICA",
+      "title": "RTI 1",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rti1.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://www.enovativecdn.com/rticdn/smil:rti1.smil/chunklist_w157867272_b2000000_sleng.m3u8?nimblesessionid=147725584",
+      "user_agent": ""
+    },
+    {
+      "id": 4038,
+      "category": "AFRICA",
+      "title": "RTI 2",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rti2.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://www.enovativecdn.com/rticdn/smil:rti2.smil/chunklist_w1060088001_b2000000_sleng.m3u8?nimblesessionid=147725632",
+      "user_agent": ""
+    },
+    {
+      "id": 4039,
+      "category": "AFRICA",
+      "title": "La 3",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/la3.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://www.enovativecdn.com/rticdn/smil:rti3.smil/playlist.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4040,
+      "category": "AFRICA",
+      "title": "RTI Bouake",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtibouake.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://www.enovativecdn.com/rticdn/smil:rti1.smil/chunklist_w117018077_b2000000_sleng.m3u8?nimblesessionid=147725747",
+      "user_agent": ""
+    },
+    {
+      "id": 4041,
+      "category": "AFRICA",
+      "title": "Notre Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/notretv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://strhlslb01.streamakaci.tv/str_ntv_ntv/str_ntv_ntv_multi/str_ntv_ntv/str_ntv_ntv720p/chunks.m3u8?nimblesessionid=24551298",
+      "user_agent": ""
+    },
+    {
+      "id": 4042,
+      "category": "AFRICA",
+      "title": "Bussiness 24",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/bussiness24.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video_token/hdntl=exp=1737598181~acl=%2f*~data=hdntl~hmac=c42e4e996b32102a4d207bec825c5b31fd97ff30147b68f228071405eff81628/business24_tv-avc1_1500000=4-mp4a_98400=1.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4043,
+      "category": "AFRICA",
+      "title": "NCI",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/nci.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/5571652/e/1_2gnrfyb6/tl/main/st/0/t/ZJXaY7N0is9coAmF41u9lg/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzU1NzE2NTIvZS8xXzJnbnJmeWI2L3RsL21haW4vc3QvMC90L1pKWGFZN04waXM5Y29BbUY0MXU5bGcvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczNzYwMDEzMn19fV19&Signature=WONCMIzNieVmoCz-Itqxb9MD8uCja5BkUKtRXAHDcTsUIBOiOZ31VNlYZvdA9YOzkoh6bfae1bOEMyVoVqGCEbC6heEGRj4cYijKu~4qFxvNfkKyoyWsuOUUjtCG~40oIZaG3plQ33w0aGCttE3ZbiAzti46D6Zae-P~Quz0H8LTGxjLUVmXjJWqjxNEAZlM~cq4QgDXZEB0LyQB3wYPakfNFEDTMqeefFUrKB1aD8rXPVUXSynTWzIwUN5GlsKwzdkek7I~~izVo109mDUKsVH3eWwluCh6vnL0mbgg0s2tPdwXS5gRo1CBW~RFx7V-8mQIx1Sa7Ew395swvfPtlA__&Key-Pair-Id=K31ANTJBLNVBEC",
+      "user_agent": ""
+    },
+    {
+      "id": 4044,
+      "category": "AFRICA",
+      "title": "Reflet Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/reflettv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/video_360640_p_0.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4045,
+      "category": "AFRICA",
+      "title": "MTV Plus",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/mtvplus.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://strhls.streamakaci.tv/str_mtv_mtv/str_mtv_multi/str_mtv_mtv/str_mtv_mtv_1080p/chunks.m3u8?nimblesessionid=24553944",
+      "user_agent": ""
+    },
+    {
+      "id": 4046,
+      "category": "AFRICA",
+      "title": "El Balad",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/elbalad.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://ase11-0.playlist.ttvnw.net/v1/playlist/CroGMylFRMohsJsue6H0x5TLG2C3rfvvwr9DZAeNwmM3_1O7vVGDFQeB8QjJeYrq4uxMGLIdLoxewbgegyD1NSq1EY0kaUby0B9WagM5NJRI1m0R0quHaGnWjke2OhJqcHGO43z4kGYLvYacu_D99GOZYWgeB_4yrIudPruwH8HSHTnWUM3PwV5E_qm4-0-ShjNpuhIheZXVD-ICfDLjX0GrIjaQlV9CuEWjpFfwkgZ4RekSFpRJW-kU5FoNbxatOSJKGxTnB5JhgNHeixfZ6cIr4YOdXmi6hb7BqOcoZ-fSO64Gpu_Gcr5u0oYsFKcOE-CNZhl82vz-LYplWUNdSqg7RvLCCkCEdO15h9-FkU_EL2wD3QiT1nsW4iaAzh-8qDSoekGNoIsivOt3-Y3jTvCbvLCfCSx_TkLW2IM2-zBRSjVNroe7DLu9YSmiThQexICVMmUeqcVuUumTdkDDRu0bRUEORjaOLFASnmmFy2JXLR2gFdC-RyPGmC37TV5tn3mV3_Tg0Mmub7CgGVODaLeBLiyaZGukiRQNRAUVzNblVdchswQ8Hoja9EIazPPBqnu4ph-wjBAZj6MW2zqfEels3JK5vsAW8fUXFpaMWst4bHpxm3vLn2YHTDJFxOOYXJf-nsQbVRUaer4l6aM0rlXM-NC60_siZVogP7D1J2_o7Tsb7_S71UY3Ux-lD-qGSe2ZPCDxmdX5KdDoxUJkBek5UqiKKOaqkGWtp6p1TyyjxcxIZth-Xk3Ll--bzA1SUkrJOgbhV6qhVEly88fXCnT66vRpY7L4RojJlFy3b9N5w8QDdVeXvSrWW9rmOQBD4blEOCu_TiR3-i2-0v8_Zzzl6NfIhlL1t8DAroe4gVdopEOFSkk3yyWCvyd5Ht7H-eow7091xmPHgxkXWE7DGcf5iMqjrRSRMD3pjIEapQHCCsWxLrBS9MTmHaOWO63FowKQjw8OvJin72jSEnl5sBTaoQfxb2zCgl1gYQ5-nB8iinSSzUuT8EYUNGgSL2l_DZfe_RaIAmSpo5IPSKbQ56KVYCAB2WgudPTUhkdT1vDQu1ItAkQcjijpX8Tli8lwFre-qdidLakM_eCB-xoMV1SJG23OehKkW_dxIAEqCXVzLXdlc3QtMjClCw.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4047,
+      "category": "AFRICA",
+      "title": "Nile Tv INter",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/niletvinter.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live-c.cf.dmcdn.net/sec2(L9w4XJzfK91LNKbnDnxWbHQPkZSO1Odv26EELwL8AyBJjlq_OctFDze78B661EIfk2iWr80J0ooSCsdodQzaHvUj1Z1Z5D8CEq87VyJudSNFX7dCiYV1VkrweFKUaZRP)/dm/3/x8lr1r8/s/live-480.m3u8#cell=lcfc",
+      "user_agent": ""
+    },
+    {
+      "id": 4048,
+      "category": "AFRICA",
+      "title": "Egypt Channel 1",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/egyptchannelone.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live-c.cf.dmcdn.net/sec2(EpZjFykZ6hZPaUDNB816Wrh2-pgSv8lyH-hKqsfpWB-b-dTByypq49RLe8q6V63CoLTv8BJ1sYDx3zg8kx1vAWmVVIlAOy37Z_gJOYY9dSjprS8-xiR0bhQgRPt7OOZN)/dm/3/x84nun4/s/live-480.m3u8#cell=lcfc",
+      "user_agent": ""
+    },
+    {
+      "id": 4049,
+      "category": "AFRICA",
+      "title": "Egypt CHannel 2",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/egyptchanneltwo.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live-b.cf.dmcdn.net/sec2(YVatJ65EbjCsvL_GiGg4ZCEN-aihuarofI2A537hMiDHlNYDzW1vdP8dR5MmARMdsLaM6RWlFVeBZHe1qNUxvrlwHQNEQyeD3x8tlh0T_sx-jxMl6dMFOsd3qAohTWBT)/dm/3/x856hbh/s/live-480.m3u8#cell=lcfb",
+      "user_agent": ""
+    },
+    {
+      "id": 4050,
+      "category": "AFRICA",
+      "title": "Egypt CHannel 3",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/egyptchannel3.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live-b.cf.dmcdn.net/sec2(sFIfFNCqqVvr0dWetzfFgYum_4Hd2uM8l-QJTbRsdNDeb5lipBcsDAgX91QysprpLwMD_4grvZhq9wNbxpxZ9uTajkpGU-R16OuK0SQwu_EB1YQGlTwxDZQ-Rh8y7KCr)/dm/3/x8n6dm7/s/live-480.m3u8#cell=lcfb",
+      "user_agent": ""
+    },
+    {
+      "id": 4051,
+      "category": "AFRICA",
+      "title": "Nile Drama",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/niledrama.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live-b.cf.dmcdn.net/sec2(HBfaM1Tfgd5a1DHQCHYLm8Fx0jWiwMCQv_d8XrrPQb-rWe5sYf01TF9Xe3lQghFoHxzRQUzU6Rv7KuB-AKMPfDNCJbMPLkfqAuzzkpH86he9CzD1nrqZqRbprP6Tifxs)/dm/3/x8n6e3a/s/live-720.m3u8#cell=lcfb",
+      "user_agent": ""
+    },
+    {
+      "id": 4052,
+      "category": "AFRICA",
+      "title": "Mekameleen",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/mekamelee.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b2128000.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4053,
+      "category": "AFRICA",
+      "title": "Elsharq",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/elsharq.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4054,
+      "category": "AFRICA",
+      "title": "Nogoum Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/nogoum.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://nogoumtv.nrpstream.com/hls/0/stream.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4055,
+      "category": "AFRICA",
+      "title": "Watan Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/watantv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://rp.tactivemedia.com/watantv_source/live/chunks.m3u8?nimblesessionid=373",
+      "user_agent": ""
+    },
+    {
+      "id": 4056,
+      "category": "AFRICA",
+      "title": "Huda Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/hudatv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4057,
+      "category": "AFRICA",
+      "title": "The Kingdom Sat",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/thekingdomsat.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://bcovlive-a.akamaihd.net/0e524e1838ed411dad0a674d18e07914/eu-central-1/6415808954001/profile_1/chunklist_dvr.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4058,
+      "category": "AFRICA",
+      "title": "ETV News",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/etvnews.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://edge.mayya.et/liveplay/zmGnJcLSzrKV-90PPbH3rtOc7bBr-6DRtLVqLRU0sG4/1737508254/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etvn_1_src/index.m3u8?CMCD=cid%3D%2247b201e2-a92d-4c08-b4e3-b739b94de504%22%2Cmtp%3D7900%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22541363e5-e545-4b75-9e17-a9425b823602%22",
+      "user_agent": ""
+    },
+    {
+      "id": 4059,
+      "category": "AFRICA",
+      "title": "ETV Languages",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/etvlanguages.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://edge.mayya.et/liveplay/MdMDYVsjpLT9EtGlODuHslCDPUF_BcVChimT9v7kcMI/1737508317/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etv_lang_1_src/index.m3u8?CMCD=cid%3D%22ca395029-4de3-4236-80c1-e6a7fb554779%22%2Cmtp%3D4600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22921a3cc6-7072-4c89-b66b-242cbe298300%22",
+      "user_agent": ""
+    },
+    {
+      "id": 4060,
+      "category": "AFRICA",
+      "title": "ETV Entertainment",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/etventertainment.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://edge.mayya.et/liveplay/zqVGYVg6SRbWTakO2JNT42RswanFVP0az-SIPVgWCN4/1737508373/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etv-ent_1_src/index.m3u8?CMCD=cid%3D%22d5e45126-e4a5-4e36-a088-67e8349a1bd1%22%2Cmtp%3D7700%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22eca6cada-bb2d-4540-892f-2478157d1bec%22",
+      "user_agent": ""
+    },
+    {
+      "id": 4061,
+      "category": "AFRICA",
+      "title": "ETV Afaan Oromoo",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/etvafaanoromoo.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://edge.mayya.et/liveplay/7GINtwB6EZRgx0E9QeuppiTj5cmqnXSrlBLyeZ71c8o/1737508477/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/etv_afanoromo_1_src/index.m3u8?CMCD=cid%3D%22c84793e6-b736-4414-a4ad-e67fedad9ab0%22%2Cmtp%3D7800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22112476ac-5a91-47bf-b4c4-92c9d4b3197f%22",
+      "user_agent": ""
+    },
+    {
+      "id": 4062,
+      "category": "AFRICA",
+      "title": "ETV Yeijochalem",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/etvyeico.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://edge.mayya.et/liveplay/SDU3Q4BU2z0_necDGZMTb-FYNIW11QZgj27r2L1VYjc/1737508555/3600/d0019c9d-5088-47a2-bb9a-ec5fff5b9b4a/yelijochalem_1_src/index.m3u8?CMCD=cid%3D%225504321e-ab48-4e37-972a-ea052c15437c%22%2Cmtp%3D7500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2268ac590c-10cf-44c1-9af0-805c396e24c5%22",
+      "user_agent": ""
+    },
+    {
+      "id": 4063,
+      "category": "AFRICA",
+      "title": "Fana TV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/fanatv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://edge.mayya.et/liveplay/CdT-NB1TbW3siby4cTE7sXkEYBKhogbmXbA3YIsPmEU/1737508674/3600/b83319a5-ac2b-4fcb-889e-38aaafc50f4f/Fa4ZSvLCw0UJ_src/index.m3u8?CMCD=cid%3D%226e6b16de-8e37-41f9-a448-a9f3fdf5c9e9%22%2Cmtp%3D8700%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2264dd1196-6c89-4192-8fdf-bd8445c5b9a8%22",
+      "user_agent": ""
+    },
+    {
+      "id": 4064,
+      "category": "AFRICA",
+      "title": "Channel One Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/channeloneghana.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://2ctv.crystaltv.mobi:44095/tv877.167__0_0_7.m3u8?sid=22508",
+      "user_agent": ""
+    },
+    {
+      "id": 4065,
+      "category": "AFRICA",
+      "title": "Oceans Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/oceanstv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://5dcabf026b188.streamlock.net/OceansTV/livestream/chunklist_w1668127067.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4066,
+      "category": "AFRICA",
+      "title": "Afrik Info",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/afrikinfo.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://kali.vdopanel.com:3119/hybrid/play.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4067,
+      "category": "AFRICA",
+      "title": "Espace Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/espacetv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://edge21.vedge.infomaniak.com/livecast/ik:espacetv/chunklist_w2083644163_b6000000.m3u8?spark=de56edc1-0bb3-42ce-9a87-092ce18de8b8&token=",
+      "user_agent": ""
+    },
+    {
+      "id": 4068,
+      "category": "AFRICA",
+      "title": "Kalac Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/kalactv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://edge17.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w299882425.m3u8?spark=347cbb10-08a4-4e26-ba7f-48e4d9a21bf4&token=",
+      "user_agent": ""
+    },
+    {
+      "id": 4069,
+      "category": "General",
+      "title": "Almasar",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/almasar.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://master.starmena-cloud.com/hls/almasar.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4070,
+      "category": "news",
+      "title": "Nil News",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/nilenews.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/profile_0/chunklist.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4071,
+      "category": "News",
+      "title": "Tunisie 7 Le Journal",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/tunisie7.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w1072520892.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4072,
+      "category": "AFRICA",
+      "title": "Cape town",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/capetown.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist_b1550000.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4073,
+      "category": "AFRICA",
+      "title": "Ezekiel",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/ezekieltv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://playback2.akamaized.net/streams/19491040_8258678_lsiwt8pkqsmqmwu03ed_1/exp=1736472206~acl=%2f*~data=hdntl~hmac=49dbf50e842c0cd35119cf14b4bc59f4d9e4996eaec58527cdb083a56e18d043/media/19491040_8258678_lsiwt8pkqsmqmwu03ed_1@5256000pb.m3u8?dw=14400&ts=1736384400",
+      "user_agent": ""
+    },
+    {
+      "id": 4074,
+      "category": "AFRICA",
+      "title": "LN24",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/ln24.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/chunklist_w2045470278.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4075,
+      "category": "AFRICA",
+      "title": "Loveworldsat",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/loveworldsat.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4076,
+      "category": "AFRICA",
+      "title": "Kruiskyk",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/kruiskyk.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI1YTBhYzVjZDliMjViNTQ4ZDE3NGM0ZWIwNTMxYzQ3ZiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzM2NDI5NDYwLCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.MSrjVPzZ-pDZHvu2f7PD1HH2TqjFgKabi8IK7Wb8sqpsegiNSi6rF-3DLltTi4aStViXvCl65usUnoCK0kJnEA2wG9Ax4Bnrn35ZV07BBfYKCMhK9aMu53lMiJ0jV_6r5T15CTSlSiVz8ttEPe3bcpmGi2reCG9J304-p9fpcV47TGAle_yy67_hs55DmJhkQMJPXkx_bErVnQnjIRmLD3TnOmTNV3-GvZo3KjykLLEsHw3QoZaJaQUl7guuDEOjruFiKBy4ALYTmy-MNpPQAAao4cdI6zl-Oz_Thm7eai_pI8f92cmytJIoXTPHWrmJ-p9tUEHHJn_vfl2Laq864g/manifest/stream_t8608150f0a290748898b5645c9103454_r918870538.m3u8?useVODOTFE=false&llhlsHBs=0.9&CMCD=cid%3D%221736386263175%22%2Cmtp%3D2300%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22be70fb97-48bf-4294-90d9-d400709dc0b5%22",
+      "user_agent": ""
+    },
+    {
+      "id": 4077,
+      "category": "AFRICA",
+      "title": "Omega Gospel",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/omegagospel.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://manifest-gcp-us-east4-vop1.cfcdn.mux.com/BvbeQmeH3jia02em2RaySnmRSvARAb8rlVdEjYB4brGMw5KXQOGzm00VUt84YZlYt01HbFIUrB00knXDQtNaXabCVg/rendition.m3u8?cdn=cloudflare&expires=1736992800&skid=default&signature=Njc4ODY4MjBfMTdjOGVlYWFkNTEwYTkzOTFlYWRkNzA5YWU3OGY1YmJmZDZmNWU5NWQ2YmQwYjkxOTZlOTE4NjljMGU3M2RjNA==&vsid=oub02d00OyuBSKUZQpJpRMJbBI7N8O5iEaw1r6lRYSwlpXA7GvKBZzPDprbJWFb5q8GAMh5N986CU",
+      "user_agent": ""
+    },
+    {
+      "id": 4078,
+      "category": "AFRICA",
+      "title": "Rov TV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rovtv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://webstreaming.viewmedia.tv/web_012/Stream/live12_1/low/chunks.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4079,
+      "category": "AFRICA",
+      "title": "Inooro Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/inoorotv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/tracks-a1/index.fmp4.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4080,
+      "category": "AFRICA",
+      "title": "Ramogi Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/ramogi.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/tracks-v1a1/rewind-3600.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4081,
+      "category": "AFRICA",
+      "title": "Kass Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/kasstv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://goliveafrica.media:9998/live/65fab847cbc4c/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4082,
+      "category": "AFRICA",
+      "title": "KTN Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/ktn.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/ABR1080v1/streams/82cfc90a-4e15-04c3-a9ac-e66a45df1273_1080p2500kbps.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4083,
+      "category": "AFRICA",
+      "title": "Akili Kids",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/akilikids.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://5b622f07944df.streamlock.net/akilikids.co.ke/akilikids.smil/chunklist_w48873085_b2528000_slke.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4084,
+      "category": "AFRICA",
+      "title": "Family Tv Kenya",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/familytvkenya.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://207639.global.ssl.fastly.net/652949a03567cd3c766a21f0/live_6c33b9a069cf11eebe6363d9db657015/tracks-v3/index.fmp4.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4085,
+      "category": "AFRICA",
+      "title": "Tumaini Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/tumainitv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://ase11-0.playlist.ttvnw.net/v1/playlist/CpQGpQ6K0voE-1HdCGF5PQ9_x8DYMuvMd6BPThOpHewjNcshc9jQRBV2AuVXeqK52Jo1fHy7dVCrZ7v9l8bkKyovkCqKnqZafcsTMT6h65tkhYcnkCco6GGbrJ0W0xNZ-VKWOVyn_kh1royT__qyFsa64h9cbB5rcm9jgIBoveoWtBrHAM5zqES2gnhNbdp0ovWDZ3gvlv23OOqKhTnBsKPl387fmR08FJw3OH4l2aLknKZjXWtLQV5EDD-YPKRVRkWV5Je22Ys4mTjMv6dBEEp8-G-M2UoEekv7IR13Q9n6fCKAi1mwau_YkBR9cFJ7J95fD4iB2Q2MyoI4nFVqvE3Zs7qo85mOmVCOP0vfSq2a7seTUK2WbEFg1ljJbJG_3QFj9sDKX5KyoYFohYIZhztzU_YyA0CaJjEuvBco_yrjSEw02vrXVJjt0Rfh8ieHzrFbiLOZwqq_bYZ5oq--QSVrRq2zQ6vSTqjoMGWSJ-yttrdeDL2d5bajkVRCZ-r3hD4z_29O3ZKU2ULo0xz-2yg4ykbm2k5_KsmkZoVpEwvyKsnvMgkfNBTn7Qngq4e7VBMZaNjZPi9AHzj11bhov7YFuwwM9PmKuVfM4NaL8Qb0df037a0-xuViPPpjGZI8BIRpIygx06hcWlc8g_miNPQrebdQXuXuy2T8qA0sXWqo2hkV-T6f83ngEePfmXLk49e7dBUC1Rax6MCn3kmlS0ogu6b1sFTr2k46mqSYTEJjoqBUXWrfE94XrCmQsbDUtBJ4kPdZ7Up-9_xdq56IREFdLUplk3118Si5Y8MiwmFxrQT_nqt9S888dKmQ75Xp9cKUy9UZ0LkYwj3Hs6gAK8en380RrLfRP5WR2dBG_bVv2NLYYIP7UouJ3TPXzQQHpnDdAk8js1xDb0y_8341gfODuyT0lC1d6r34G65k0C79DeRtcl-F1AlflIJEiTvB08ZnsJIRiY5gxgxJowMVMzVkbjmZcucfpTSVQmlApWLFw7ys7zPrJ0soFMCgAdiDpl7zdz6ZWUw5dsue_6_9GmI678ulIlwaDMOa356fc2gXda86CyABKgl1cy13ZXN0LTIwsgs.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4086,
+      "category": "AFRICA",
+      "title": "Al Ahrar",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/alahrar.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.castr.com/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/tracks-a1/index.fmp4.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4087,
+      "category": "AFRICA",
+      "title": "Al Masar Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/almasar.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://starmenajo.com/hls/almasar/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4088,
+      "category": "AFRICA",
+      "title": "Libya One Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/libyaonetv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://usher.ttvnw.net/api/channel/hls/libyaonetv.m3u8?acmb=eyJBcHBWZXJzaW9uIjoiNDBiZmZhZGMtZWFhOS00OGQ4LThmNTQtMWQ5MjFkNjBhNzc1In0%3D&allow_source=true&browser_family=chrome&browser_version=132.0&cdm=wv&fast_bread=true&os_name=Windows&os_version=NT%2010.0&p=8025298&parent_domains=twitchplayer&platform=web&play_session_id=b49a3db028c8f510f1764b343bceb74d&player_backend=mediaplayer&player_version=1.36.0-rc.1&playlist_include_framerate=true&reassignments_supported=true&sig=60d8e81e715c4858c2a9ee40905713665596fb59&supported_codecs=av1,h265,h264&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22libyaonetv%22%2C%22channel_id%22%3A433052234%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22MF5t2V1VRppJvwqc79a3fKZ3wP9rFicD%22%2C%22expires%22%3A1737517107%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22114.10.4.38%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1",
+      "user_agent": ""
+    },
+    {
+      "id": 4089,
+      "category": "AFRICA",
+      "title": "sahara 24",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/sahara24.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live.saharamedias.net/sahara24-live/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4090,
+      "category": "AFRICA",
+      "title": "Medi 1 Tv Maghreb",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/medionetv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/chunklist_w348099944_b2128000_slar.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4091,
+      "category": "AFRICA",
+      "title": "Medi 1 Tv Afrique",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/medioneafrique.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/chunklist_w1993011089_b2128000_slar.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4092,
+      "category": "AFRICA",
+      "title": "Al Aoula",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/alaoulatv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1500000=5-mp4a_130400_qad=2.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4093,
+      "category": "AFRICA",
+      "title": "Arryadia",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/arryadia.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/arriadia-avc1_1500000=3-mp4a_130400_qad=4.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4094,
+      "category": "AFRICA",
+      "title": "Almaghribia",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/Almaghribia.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn-globecast.akamaized.net/live/eds/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1500000=5-mp4a_130400_qad=2.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4095,
+      "category": "AFRICA",
+      "title": "Tamazight",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/TamazightTV8.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_400000=7-mp4a_130400_qad=2.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4096,
+      "category": "AFRICA",
+      "title": "Laayoune",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/Laayoune.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn-globecast.akamaized.net/live/eds/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=5-mp4a_130400_qad=2.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4097,
+      "category": "AFRICA",
+      "title": "Assadissa",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/Assadissa.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn-globecast.akamaized.net/live/eds/assadissa/hls_snrt/assadissa-avc1_400000=7-mp4a_130400_qad=2.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4098,
+      "category": "AFRICA",
+      "title": "M24 Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/m24.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://63df3191463ce.streamlock.net/live/ngrp:Live2.stream_all/chunklist_w1171590628_b1396000.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 4099,
+      "category": "AFRICA",
+      "title": "Telemaroc",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/telemaroc.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://llhls-live.akamaized.net/exp=1737562082~acl=%2Fc473dcca-c8b2-441b-9aa6-4991a7232a44_llhls%2F%2A~hmac=73cf12e63bd54bd4ce5a11a690bc8e829a0f72da8d30025f5374ad6cdf581bee/c473dcca-c8b2-441b-9aa6-4991a7232a44_llhls/chunklist_b56000_cmaf_a.m3u8?max_segments=10&_HLS_skip=YES",
+      "user_agent": ""
+    },
+    {
+      "id": 40100,
+      "category": "AFRICA",
+      "title": "Athaqafia",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/Athaqafia.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn-globecast.akamaized.net/live/eds/arrabiaa/hls_snrt/arrabiaa-avc1_1500000=5-mp4a_130400_qad=2.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40101,
+      "category": "AFRICA",
+      "title": "TVM",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/tvm.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w2070105462_b214000_slpor.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40102,
+      "category": "AFRICA",
+      "title": "RTP 2",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/RTP2.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/chunklist_b1290000_slpor.m3u8?tk=1737691200_c22232511563e5c5ebafebf3624e4c78329d2fc2",
+      "user_agent": ""
+    },
+    {
+      "id": 40103,
+      "category": "AFRICA",
+      "title": "RTP 3",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtp3.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/chunklist_b1290000_DVR_slpor.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40104,
+      "category": "AFRICA",
+      "title": "RTP International",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtpinter.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40105,
+      "category": "AFRICA",
+      "title": "RTP Madeira",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtpmadeira.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40106,
+      "category": "AFRICA",
+      "title": "RTP Acores",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/RTPAcores.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/chunklist_b1290000_slpor.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40107,
+      "category": "AFRICA",
+      "title": "RTP Africa",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rtpafrica.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/chunklist_b640000_slpt.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40108,
+      "category": "AFRICA",
+      "title": "TV Mana Mocambique",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/tvmana.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/chunklist_w920582913_b413000_sleng.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40109,
+      "category": "AFRICA",
+      "title": "Tele Sahel",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/telesahel.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn-globecast.akamaized.net/live/eds/tele_sahel/hls_video_token/hdntl=exp=1737685653~acl=%2f*~data=hdntl~hmac=f3a1d7a5ff266d99c1c6b48e8f964674586dd4a9e7662d7109b0dea6fa327c69/tele_sahel-avc1_1500000=15-mp4a_98400_qad=1.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40110,
+      "category": "AFRICA",
+      "title": "ITV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/itv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://5caf24a595d94.streamlock.net:1937/hqnkwegjwf/hqnkwegjwf/chunklist_w2111642970.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40111,
+      "category": "AFRICA",
+      "title": "Wazobiamax Lagos",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/wazobia.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://wazobia.live:8333/channel/wmax_480.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40112,
+      "category": "AFRICA",
+      "title": "Wazobiamax Abuja",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/wazobiaabuja.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://wazobia.live:8333/channel/wmaxabuja_480.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40113,
+      "category": "AFRICA",
+      "title": "Wazobiamax port harcourt",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/Wazobiamaxportharcourt.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://wazobia.live:8333/channel/wmaxph_480.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40114,
+      "category": "AFRICA",
+      "title": "Antenne reunion",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/Antennereunion.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cache-video-server-02.zeop.tv/bpk-token/1aa@aredbpabsme2b5uqxydj1jgc4aieziyda5sqjzca/live/c3eds/antreunihd/hls_fta/antreunihd-avc1_5000000=5.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40115,
+      "category": "AFRICA",
+      "title": "Rwanda Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rwandatv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://1004910551.rsc.cdn77.org/LS-PRG-44514-1/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40116,
+      "category": "AFRICA",
+      "title": "KC2",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/kc2.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://5c46fa289c89f.streamlock.net/kc2/kc2/chunklist_w1143224954.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40117,
+      "category": "AFRICA",
+      "title": "7 Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/7tv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live1.acangroup.org:1929/publiclive/septtv.stream/chunks.m3u8?nimblesessionid=206559843&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI1IDI6NDg6NDMgQU0maGFzaF92YWx1ZT1SbkdXdkxuVWJFTFdQS0k2YmN3MnZ3PT0mdmFsaWRtaW51dGVzPTEw",
+      "user_agent": ""
+    },
+    {
+      "id": 40118,
+      "category": "AFRICA",
+      "title": "SenTv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/sentv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live1.acangroup.org:1929/acanabr/sentv.stream_all/acanabr/sentv.stream_HD/chunks.m3u8?nimblesessionid=206560133&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI1IDI6NDk6NTkgQU0maGFzaF92YWx1ZT1LZHhQeDJ2MHYrTnVxWk5NMENIeFVRPT0mdmFsaWRtaW51dGVzPTEw",
+      "user_agent": ""
+    },
+    {
+      "id": 40119,
+      "category": "AFRICA",
+      "title": "Walf Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/walftv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://live1.acangroup.org:1929/publiclive/walftv.stream/chunks.m3u8?nimblesessionid=206560369&wmsAuthSign=c2VydmVyX3RpbWU9MS8yMy8yMDI1IDI6NTA6NTMgQU0maGFzaF92YWx1ZT0xdVM1QnBDSU4wUGdwVUtFWlU3Qk53PT0mdmFsaWRtaW51dGVzPTEw",
+      "user_agent": ""
+    },
+    {
+      "id": 40120,
+      "category": "AFRICA",
+      "title": "Channel 34",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/channel34.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/ABR1080v1/streams/d642ee54-6378-b547-319e-5ddfcac01073_1080p2500kbps.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40121,
+      "category": "AFRICA",
+      "title": "Channel 33",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/channel33.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/ABR1080v1/streams/0f0f165c-90b7-2721-cfcc-3e2142eb02b0_1080p2500kbps.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40122,
+      "category": "AFRICA",
+      "title": "CNBC Africa",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/cnbcafrica.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/chunklist_w516045227_b1464000_sleng.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40123,
+      "category": "AFRICA",
+      "title": "Brics Africa",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/brics.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://engbrics2.mediacdn.ru/cdn/brics/english/tracks-v1a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40124,
+      "category": "AFRICA",
+      "title": "Cape Town Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/capetown.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/chunklist_b1550000.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40125,
+      "category": "AFRICA",
+      "title": "LN24",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/ln24.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/chunklist_w450576094.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40126,
+      "category": "AFRICA",
+      "title": "Love World Sat",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/loveworldsat.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40127,
+      "category": "AFRICA",
+      "title": "Kruiskyk",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/kruiskyk.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://customer-gllhkkbamkskdl1p.cloudflarestream.com/eyJhbGciOiJSUzI1NiIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIn0.eyJzdWIiOiI2YzBiZjE5NTViZDc1MGNlZjJiYmRiZjQzNDIzOTdjYyIsImtpZCI6ImI3YmIwODNmMDhkNmQ5NWExZjIzZWE3ZWRhOWY4NTZhIiwiZXhwIjoxNzM3NjQ0ODk5LCJhY2Nlc3NSdWxlcyI6W3sidHlwZSI6ImlwLmdlb2lwLmNvdW50cnkiLCJhY3Rpb24iOiJibG9jayIsImNvdW50cnkiOlsiUlUiLCJCWSJdfV19.HoOs4I4RGRn_FRJhqFfG1fu5IIBhC9j0y0sYWCzuTKDpJ5Xxhqa1vLUGtcGKkdF179RoGeKNqNPOFLh2Ltwg8R8vjIs7t-Nv9FObLv-f-A2zH64RamhpTjS3e49enVnipIL-cs6ndzOG1nENy7-TsYGPJf4_kTGvk2iMwDkXl_CvtP9S7QbrwVqw36rWbWCRq2kufY_FeUW_-d_E2Geyx6ezDuqUq2vXRGfBzsVO1RzBcJu-wgJPFtSLR0uNS4fkPCbT8FkZz_mfEdQoF0TQPXKZwx7Uco-oR22o4qTgzPhQonA6k3HkUlgIBCQ6DtKHv1eb6X71WKHGLp6CdJS6Uw/manifest/stream_t2135f132835f2db6fa270061868bc12c_r930751876.m3u8?useVODOTFE=false&llhlsHBs=0.9&CMCD=cid%3D%221737601701912%22%2Cmtp%3D4500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224ce475da-be9d-4673-a618-cdbbb4448e8a%22",
+      "user_agent": ""
+    },
+    {
+      "id": 40128,
+      "category": "AFRICA",
+      "title": "Rov Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/rovtv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/live12_3/high/chunks.m3u8?nimblesessionid=687923121",
+      "user_agent": ""
+    },
+    {
+      "id": 40129,
+      "category": "AFRICA",
+      "title": "Dabanga",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/dabanga.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://hls.dabangasudan.org/hls/stream.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40130,
+      "category": "AFRICA",
+      "title": "IBN TV",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/ibntv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40131,
+      "category": "AFRICA",
+      "title": "Newworld Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/newworldtv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://hls.newworldtv.com/nw-info/video/live_3.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40132,
+      "category": "AFRICA",
+      "title": "Jawhara ",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/jawharatv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://streaming.toutech.net/live/jtv/index.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40133,
+      "category": "AFRICA",
+      "title": "Bukedde Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/bukedde2.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.hydeinnovations.com/bukedde1flussonic/tracks-v2a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40134,
+      "category": "AFRICA",
+      "title": "Bukedde Tv 2",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/bukedde2.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.hydeinnovations.com/bukedde2flussonic/tracks-v2a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40135,
+      "category": "AFRICA",
+      "title": "Tv West",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/westtv.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.hydeinnovations.com/tvwest-flussonic/tracks-v2a1/mono.m3u8",
+      "user_agent": ""
+    },
+    {
+      "id": 40136,
+      "category": "AFRICA",
+      "title": "Wan Luo Tv",
+      "image": "https://raw.githubusercontent.com/papanancy/LiveTv/refs/heads/main/IMGAFRICA/wanluo.png",
+      "description": "Please give suggestions on what TV channels should be added, please contact me at bussinesscv108@gmail.com or telegram @livetvstreamofficial",
+      "streaming_url": "https://stream.hydeinnovations.com/luotv-flussonic/tracks-v2a1/mono.m3u8",
+      "user_agent": ""
     }
   ]
 }
